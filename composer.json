@@ -1,0 +1,23 @@
+{
+    "name": "boltabandoned/base-2016",
+    "description": "base-2016 theme for bolt built upon a flex grid.",
+    "type": "bolt-theme",
+    "keywords": ["theme", "flexbox", "base"],
+    "require": {
+        "bolt/bolt": ">=2.0.0,<3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Smithee",
+            "email": "alan.smithee@example.com"
+        }
+    ],
+  "extra": {
+        "bolt-screenshots": [
+            "screenshots/listing.jpg",
+            "screenshots/home.jpg",
+            "screenshots/record.jpg"
+        ]
+    }
+}
